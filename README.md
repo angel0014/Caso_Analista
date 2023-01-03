@@ -1,7 +1,7 @@
 # Caso Analista
 
 
-Elaboración Modelo de Machine Learning aplicado a un Dataset de tamaño 1217884 × 24 que contiene información acerca del cumplimiento de pago de los clientes para un periodo de tiempo.
+Elaboración Modelo de Machine Learning aplicado a Dataset 1217884 × 24 que contiene información acerca del cumplimiento de pago de clientes para un periodo de tiempo.
 
 El desarrollo del modelo se encuentra en el siguiente archivo:
 
